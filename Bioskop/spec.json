@@ -1,0 +1,9 @@
+{
+    "symbolic_name": "Bioskopska aplikacija",
+    "name": "Bioskop",
+    "size": 25.2,
+    "category": "kategorija 1",
+    "version": "1.0.0",
+    "enabled": true,
+    "description": "Upravljanje bioskopskim repertoarom"
+}
